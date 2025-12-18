@@ -1,0 +1,3 @@
+sys
+random
+pygame=2.6.1
